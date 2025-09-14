@@ -106,7 +106,7 @@
 
 
     <?php include './arrivals.php' ?>
-
+<?php include './product-list.php'?>
 
 
 </body>
