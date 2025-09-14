@@ -58,12 +58,16 @@
                 <li>Earbuds</li>
                 <li>Smart Watches</li>
                 <li>Projectors</li>
-                <li>Accessories</li>
+                <a href="./sameer.php">
+                    <li>Accessories</li>
+                </a>
                 <li>Support</li>
             </ul>
             <div class="d-flex gap-3">
                 <i class="bi fs-4 bi-search"></i>
-                <i class="bi fs-4 bi-person"></i>
+                <a href="./register.php">
+                    <i class="bi fs-4 bi-person"></i>
+                </a>
                 <i class="bi fs-4 bi-bag"></i>
             </div>
 
@@ -99,6 +103,9 @@
             </button>
         </div>
     </div>
+
+
+    <?php include './arrivals.php' ?>
 
 
 
